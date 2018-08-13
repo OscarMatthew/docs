@@ -10,6 +10,6 @@
   <a href="#">12</a>
   <span>...</span>
   <a href="#">120</a>
-  <a cleass="next-page"><i class="REPLACE-WITH-ICON-CLASS"></i></a>
+  <a class="next-page" href="#"><i class="REPLACE-WITH-ICON-CLASS"></i></a>
 </nav>
 ```
